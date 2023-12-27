@@ -1,0 +1,9 @@
+textblob
+nltk
+discord
+lyricsgenius
+python-dotenv
+altair
+discord.py
+altair_saver
+vl-convert-python
