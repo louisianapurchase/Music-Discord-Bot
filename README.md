@@ -18,9 +18,9 @@ Code will be updated frequently make sure you are using latest version
 
 Discord bot should send a message as well as instructions when joining server
 
-Requirments file is necessary and holds all imports 
+Requirements file is necessary and holds all imports 
 
-make sure file is named requirments.txt
+make sure file is named requirements.txt
 
 Enjoy
 
