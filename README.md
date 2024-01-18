@@ -22,5 +22,7 @@ Requirements file is necessary and holds all imports
 
 make sure file is named requirements.txt
 
+pip install Spotipy may have to be completed manually through terminal
+
 Enjoy
 
